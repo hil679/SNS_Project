@@ -1,13 +1,13 @@
-package com.example.fastcampusmysql;
+package com.example.sns;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MysqlInitProjectApplication {
+public class SnsProjectApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MysqlInitProjectApplication.class, args);
+        SpringApplication.run(SnsProjectApplication.class, args);
     }
 
 }
